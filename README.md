@@ -79,6 +79,3 @@ python request.py
 - paho-mqtt
 - Mosquitto (broker MQTT)
 
-## Licença
-Este projeto é apenas para fins educacionais.
-
